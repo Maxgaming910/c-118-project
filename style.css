@@ -1,0 +1,40 @@
+body{
+    background-color: blanchedalmond;
+
+}
+
+#score{
+    font-size: 20px;
+    float: left;
+    margin-left:30px;
+    color: black;
+
+}
+
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-right:60px;
+    color: black;
+}
+
+#draw_sketch{
+    color:brown;
+    font-size: 25px;
+
+}
+
+#confidence{
+    color:aqua;
+    font-size: 25px;
+}
+
+#sketch{
+    color:blue;
+    font-size: 25px;
+}
+
+#show_sketch{
+    float:right;
+    
+}
